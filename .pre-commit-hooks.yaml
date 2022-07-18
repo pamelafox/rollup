@@ -1,0 +1,7 @@
+-   id: rollup
+    name: rollup
+    description: ''
+    entry: rollup
+    language: node
+    always_run: true
+    pass_filenames: false
